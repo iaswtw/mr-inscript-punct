@@ -25,3 +25,7 @@ Note the [ZWJ](https://en.wikipedia.org/wiki/Zero-width_joiner) (Zero Width Join
 ![](images/mr-enh-inscript-punct--alt-gr-shift.png)
 
 The Enhanced INSSCRIPT layout proposal has `ऽ` on English `>` key. Hence `ऽ` was moved to English `Z`.
+
+Differences from default INSCRIPT layout
+========================================
+TODO
