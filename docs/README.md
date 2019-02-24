@@ -4,9 +4,9 @@ The default Marathi INSCRIPT keyboard on Windows 10 is missing the enhanced INSC
 
 Installer
 =========
-[This](https://github.com/iaswtw/mr-inscript-punct/blob/master/docs/artifacts/Marathi%20Enhanced%20INSCRIPT%20with%20Punctuation.zip) zip file contains the installer for a slightly modified layout to overcome the shortcomings of the default INSCRIPT keyboard.
+[This](https://github.com/iaswtw/mr-inscript-punct/releases/latest) is the latest release.  Download the Installer zip file in it.  It contains the installer for the slightly modified layout to overcome the shortcomings of the default INSCRIPT keyboard.
 
-[This source](https://github.com/iaswtw/mr-inscript-punct/blob/master/docs/artifacts/Marathi%20Enhanced%20INSCRIPT%20with%20Punctuation.klc) file was used to create the installer using [Microsoft Keyboard Layout Creator 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=22339). 
+[This source](https://github.com/iaswtw/mr-inscript-punct/blob/master/source/Marathi%20Enhanced%20INSCRIPT%20with%20Punctuation.klc) file was used to create the installer using [Microsoft Keyboard Layout Creator 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=22339). 
 
 Layout
 ======
@@ -25,7 +25,3 @@ Note the [ZWJ](https://en.wikipedia.org/wiki/Zero-width_joiner) (Zero Width Join
 ![](images/mr-enh-inscript-punct--alt-gr-shift.png)
 
 The Enhanced INSSCRIPT layout proposal has `ऽ` on English `>` key. Hence `ऽ` was moved to English `Z`.
-
-Differences from default INSCRIPT layout
-========================================
-TODO
